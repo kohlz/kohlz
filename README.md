@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">kohlz</h1>
+<h3 align="center">I am a student from Qibao Dwight</h3>
+
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kohlz&show_icons=true&theme=maroongold"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohlz&theme=maroongold" align="center">
+</p>
