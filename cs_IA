@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T04:42:44.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="itsa0C8k6urwd9qNGDlm" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T04:50:31.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="5cT5ZhelGyDKF8dgqow2" version="17.4.0" type="github">
   <diagram id="7khViWg5Q1moo25clvJE" name="Page-1">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="RVOkdOqoR-hXTvsx3T-i-3" value="Username:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RVOkdOqoR-hXTvsx3T-i-4" value="password:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-4" value="Password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVOkdOqoR-hXTvsx3T-i-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -30,6 +30,51 @@
         </mxCell>
         <mxCell id="RVOkdOqoR-hXTvsx3T-i-9" value="Register" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="360" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-12" value="New user registration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-13" value="Username:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="465" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-14" value="Password:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="470" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="510" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-17" value="save" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="560" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-19" value="&lt;h1&gt;Instruction&lt;/h1&gt;&lt;div&gt;This software aims at helping you to save your sensitivity setting in game please enter your path of file below:&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-20" value="Help" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="770" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-21" value="&amp;nbsp;Click Help to see how to find file path" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="730" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-22" value="file path:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="895" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-24" value="save" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="940" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-25" value="next" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="940" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
