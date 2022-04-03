@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T04:50:31.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="5cT5ZhelGyDKF8dgqow2" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T05:01:01.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="usmv__y6NdMOWz9F1jDb" version="17.4.0" type="github">
   <diagram id="7khViWg5Q1moo25clvJE" name="Page-1">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="260" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVOkdOqoR-hXTvsx3T-i-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="400" width="360" height="210" as="geometry" />
+          <mxGeometry x="54" y="410" width="360" height="210" as="geometry" />
         </mxCell>
         <mxCell id="RVOkdOqoR-hXTvsx3T-i-12" value="New user registration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="410" width="60" height="30" as="geometry" />
@@ -75,6 +75,63 @@
         </mxCell>
         <mxCell id="RVOkdOqoR-hXTvsx3T-i-25" value="next" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="940" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="RVOkdOqoR-hXTvsx3T-i-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="560" as="sourcePoint" />
+            <mxPoint x="290" y="410" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.65;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.003;entryY=0.286;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RVOkdOqoR-hXTvsx3T-i-8" target="RVOkdOqoR-hXTvsx3T-i-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="660" as="sourcePoint" />
+            <mxPoint x="540" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="310" />
+              <mxPoint x="400" y="310" />
+              <mxPoint x="540" y="310" />
+              <mxPoint x="540" y="510" />
+              <mxPoint x="540" y="710" />
+              <mxPoint x="540" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-30" value="Instruction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-31" value="have access to the game file in the following path:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="130" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-32" value="C:\Users\21153\Documents\My Games\Rainbow Six - Siege\cd2bfac2-39d9-40ca-8508-adace10d379d" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="467" y="165" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-34" value="copy it&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-35" value="Got it !" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.622;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RVOkdOqoR-hXTvsx3T-i-20" target="RVOkdOqoR-hXTvsx3T-i-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="470" as="sourcePoint" />
+            <mxPoint x="670" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RVOkdOqoR-hXTvsx3T-i-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RVOkdOqoR-hXTvsx3T-i-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="570" as="sourcePoint" />
+            <mxPoint x="440" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="900" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
