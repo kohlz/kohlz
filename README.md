@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">kohlz</h1>
-<h3 align="center">I am a student from Qibao Dwight</h3>
+<h3 align="center">I am a student from Northeastern University</h3>
 
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=kohlz&show_icons=true&theme=maroongold"/>
